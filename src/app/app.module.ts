@@ -13,9 +13,9 @@ import { MaterialModule } from './modules/material/material.module';
 @NgModule({
   declarations: [
     AppComponent,
-    DepartmentsComponent,
     TimesheetComponent,
     AnalyticsComponent,
+    DepartmentsComponent,
     TopNavbarComponent,
     AnalyticsTableComponent
   ],
